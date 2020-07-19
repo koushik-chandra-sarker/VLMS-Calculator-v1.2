@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VlsmIpCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VlsmIpCalculator_jar</output-path>
+    <root id="archive" name="VlsmIpCalculator.jar">
+      <element id="module-output" name="VlsmIpCalculator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Library/gembox-spreadsheet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Library/fontawesomefx-8.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
